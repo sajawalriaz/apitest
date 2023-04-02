@@ -1,0 +1,132 @@
+{
+"admob":[
+{
+"admob_banner": "9576BFD9",
+"admob_interstital": "4E7798C4",
+"admob_native":"",
+"admob_reward": "4E7798C4",
+"admob_native":""
+}
+],
+"applovin":[
+{
+"applovin_sdkkey": "9576BFD9",
+"applovin_banner": "9576BFD9",
+"applovin_interstital": "4E7798C4",
+"applovin_native":"",
+"applovin_reward": "4E7798C4",
+"applovin_native":""
+}
+],
+"mintegral":[
+{
+"mintegral_sdkkey": "9576BFD9",
+"mintegral_banner": "9576BFD9",
+"mintegral_interstital": "4E7798C4",
+"mintegral_reward": "4E7798C4",
+"mintegral_native":"344545444"
+}
+],
+ "wallpappers":[
+        {
+      "gameurl" : "https://tinyurl.com/482myp45",
+      "img1" : "https://i.imgur.com/j9PnSiA.jpg",        "text" : "Knife Rain",
+      "part1" : "You rule in Toca Boca: Town, a play world where anything and everybody is gladly received! With various areas and numerous exemplary Toca Boca characters, the ordinary undertakings in Toca Boca: Town are endless."
+    },
+    {
+      "img1" : "https://i.imgur.com/j9PnSiA.jpg",
+       "gameurl" : "https://play.famobi.com/diamond-rush",
+      "text" : "Diomand Rush",
+      "part1" : "Diamond Rush features charming graphics and lots of gem action! Can you reach a high score before the time is up?"
+    },
+    {
+      "img1" : "https://i.imgur.com/j9PnSiA.jpg",
+      "text" : "Smarty Bubbles",
+       "gameurl" : "https://play.famobi.com/smarty-bubbles",
+      "part1" : "Smarty Bubbles is the perfect casual game for all ages. Combine at least 3 bubbles of the same color to remove them and try to clear the field."
+    }
+    ],
+"guide":[
+        {
+      "gameurl" : "https://tinyurl.com/482myp45",
+      "img1" : "https://i.imgur.com/j9PnSiA.jpg",
+             
+      "text" : "Knife Rain",
+      "part1" : "You rule in Toca Boca: Town, a play world where anything and everybody is gladly received! With various areas and numerous exemplary Toca Boca characters, the ordinary undertakings in Toca Boca: Town are endless."
+    },
+    {
+      "img1" : "https://i.imgur.com/j9PnSiA.jpg",
+       "gameurl" : "https://play.famobi.com/diamond-rush",
+      "text" : "Diomand Rush",
+      "part1" : "Diamond Rush features charming graphics and lots of gem action! Can you reach a high score before the time is up?"
+    },
+    {
+      "img1" : "https://i.imgur.com/j9PnSiA.jpg",
+      "text" : "Smarty Bubbles",
+       "gameurl" : "https://play.famobi.com/smarty-bubbles",
+      "part1" : "Smarty Bubbles is the perfect casual game for all ages. Combine at least 3 bubbles of the same color to remove them and try to clear the field."
+    }
+    ],
+   "minigames":[
+        {
+      "gameurl" : "https://tinyurl.com/482myp45",
+      "img1" : "https://i.imgur.com/j9PnSiA.jpg",
+            
+      "text" : "Knife Rain",
+      "part1" : "You rule in Toca Boca: Town, a play world where anything and everybody is gladly received! With various areas and numerous exemplary Toca Boca characters, the ordinary undertakings in Toca Boca: Town are endless."
+    },
+    {
+      "img1" : "https://i.imgur.com/j9PnSiA.jpg",
+       "gameurl" : "https://play.famobi.com/diamond-rush",
+      "text" : "Diomand Rush",
+      "part1" : "Diamond Rush features charming graphics and lots of gem action! Can you reach a high score before the time is up?"
+    },
+    {
+      "img1" : "https://i.imgur.com/j9PnSiA.jpg",
+      "text" : "Smarty Bubbles",
+       "gameurl" : "https://play.famobi.com/smarty-bubbles",
+      "part1" : "Smarty Bubbles is the perfect casual game for all ages. Combine at least 3 bubbles of the same color to remove them and try to clear the field."
+    }
+    ],
+   "htmlgames":[
+        {
+      "gameurl" : "https://tinyurl.com/482myp45",
+      "img1" : "https://i.imgur.com/j9PnSiA.jpg",            
+      "text" : "Knife Rain",
+      "part1" : "You rule in Toca Boca: Town, a play world where anything and everybody is gladly received! With various areas and numerous exemplary Toca Boca characters, the ordinary undertakings in Toca Boca: Town are endless."
+    },
+    {
+      "img1" : "https://i.imgur.com/j9PnSiA.jpg",
+       "gameurl" : "https://play.famobi.com/diamond-rush",
+      "text" : "Diomand Rush",
+      "part1" : "Diamond Rush features charming graphics and lots of gem action! Can you reach a high score before the time is up?"
+    },
+    {
+      "img1" : "https://i.imgur.com/j9PnSiA.jpg",
+      "text" : "Smarty Bubbles",
+       "gameurl" : "https://play.famobi.com/smarty-bubbles",
+      "part1" : "Smarty Bubbles is the perfect casual game for all ages. Combine at least 3 bubbles of the same color to remove them and try to clear the field."
+    }
+    ],
+   "mods":[
+        {
+      "gameurl" : "https://tinyurl.com/482myp45",
+      "img1" : "https://i.imgur.com/j9PnSiA.jpg",  
+      "text" : "Knife Rain",
+      "part1" : "You rule in Toca Boca: Town, a play world where anything and everybody is gladly received! With various areas and numerous exemplary Toca Boca characters, the ordinary undertakings in Toca Boca: Town are endless."
+    },
+    {
+      "img1" : "https://i.imgur.com/j9PnSiA.jpg",
+       "gameurl" : "https://play.famobi.com/diamond-rush",
+      "text" : "Diomand Rush",
+      "part1" : "Diamond Rush features charming graphics and lots of gem action! Can you reach a high score before the time is up?"
+    },
+    {
+      "img1" : "https://i.imgur.com/j9PnSiA.jpg",
+      "text" : "Smarty Bubbles",
+       "gameurl" : "https://play.famobi.com/smarty-bubbles",
+      "part1" : "Smarty Bubbles is the perfect casual game for all ages. Combine at least 3 bubbles of the same color to remove them and try to clear the field."
+    }
+    ]
+
+}
